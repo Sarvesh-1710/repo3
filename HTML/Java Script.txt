@@ -1,0 +1,13 @@
+<html>
+<head>
+<script>
+</script>
+</head>
+<body>
+<h2> SGM College Karad</h2>
+<script>
+var name=prompt("What Is Your Name?");
+document.write("<h1>My Name Is"+name+"</h1>");
+</script>
+</body>
+</html>
